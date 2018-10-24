@@ -38,3 +38,5 @@ var a = true;
 a = 18;
 a = "hello";
 console.log(a);
+var arr = [1, 2, 3];
+console.log(arr);

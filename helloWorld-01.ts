@@ -28,3 +28,6 @@ var a: any = true;
 a = 18;
 a = "hello";
 console.log(a)
+
+const arr: Array<number> = [1, 2, 3];
+console.log(arr);
