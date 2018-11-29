@@ -15,12 +15,12 @@ var girl2 = new Xiaojiejie2("女", "小红", 18, true);
 console.log(girl2);
 girl2.sayHello();
 console.log(girl2.sex);
-console.log(girl2.name);
-console.log(girl2.age);
+// console.log(girl2.name)
+// console.log(girl2.age)
 console.log(girl2.isBeautiful);
 girl2.sex = "renyao";
-girl2.name = 100;
-girl2.isBeautiful = false;
+// girl2.name = 100;
+// girl2.isBeautiful = false;
 console.log(girl2.sex);
-console.log(girl2.name);
+// console.log(girl2.name)
 console.log(girl2.isBeautiful);
